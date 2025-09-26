@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tiketpemesanan</string>
+    <string name="hint_jenis">Jenis (Pesawat/Kereta)</string>
+    <string name="hint_maskapai">Maskapai / Operator</string>
+    <string name="hint_rute">Rute Perjalanan</string>
+    <string name="hint_tanggal">Tanggal</string>
+    <string name="hint_harga">Harga</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_batal">Batal</string>
+</resources>

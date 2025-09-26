@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna bawaan -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+
+    <!-- Warna utama aplikasi -->
+    <color name="primary">#4361ee</color>
+    <color name="primary_dark">#3a56e4</color>
+    <color name="secondary">#4cc9f0</color>
+
+    <!-- Background dan surface -->
+    <color name="background">#f8f9fa</color>
+    <color name="surface">#ffffff</color>
+    <color name="on_surface">#1e1e1e</color>
+
+    <!-- Error -->
+    <color name="error">#f28482</color>
+
+    <!-- Tambahan -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#4CAF50</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="gray">#9E9E9E</color>
+</resources>

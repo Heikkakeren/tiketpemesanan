@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema utama aplikasi -->
+    <style name="Theme.TiketPemesanan" parent="Theme.Material3.DayNight">
+        <!-- Warna primer (misal: biru) -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryContainer">@color/primary</item>
+        <item name="colorOnPrimaryContainer">@android:color/white</item>
+
+        <!-- Warna sekunder -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
